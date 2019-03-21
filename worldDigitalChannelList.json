@@ -1,0 +1,744 @@
+{
+    "all": [
+        {
+            "band": "UHF",
+            "channel": "S21",
+            "frequency": 306000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S22",
+            "frequency": 314000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S23",
+            "frequency": 322000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S24",
+            "frequency": 330000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S25",
+            "frequency": 338000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S26",
+            "frequency": 346000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S27",
+            "frequency": 354000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S28",
+            "frequency": 362000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S29",
+            "frequency": 370000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S30",
+            "frequency": 378000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S31",
+            "frequency": 386000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S32",
+            "frequency": 394000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S33",
+            "frequency": 402000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S34",
+            "frequency": 410000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S35",
+            "frequency": 418000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S36",
+            "frequency": 426000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S37",
+            "frequency": 434000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "S38",
+            "frequency": 442000,
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C21", 
+            "frequency": 474000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C22", 
+            "frequency": 482000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C23", 
+            "frequency": 490000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C24", 
+            "frequency": 498000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C25", 
+            "frequency": 506000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C26", 
+            "frequency": 514000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C27", 
+            "frequency": 522000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C28", 
+            "frequency": 530000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C29", 
+            "frequency": 538000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C30", 
+            "frequency": 546000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C31", 
+            "frequency": 554000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C32", 
+            "frequency": 562000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C33", 
+            "frequency": 570000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C34", 
+            "frequency": 578000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C35", 
+            "frequency": 586000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C36", 
+            "frequency": 594000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C37", 
+            "frequency": 602000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C38", 
+            "frequency": 610000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C39", 
+            "frequency": 618000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C40", 
+            "frequency": 626000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C41", 
+            "frequency": 634000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C42", 
+            "frequency": 642000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C43", 
+            "frequency": 650000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C44", 
+            "frequency": 658000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C45", 
+            "frequency": 666000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C46", 
+            "frequency": 674000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C47", 
+            "frequency": 682000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C48", 
+            "frequency": 690000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C49", 
+            "frequency": 698000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C50", 
+            "frequency": 706000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C51", 
+            "frequency": 714000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C52", 
+            "frequency": 722000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C53", 
+            "frequency": 730000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C54", 
+            "frequency": 738000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C55", 
+            "frequency": 746000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C56", 
+            "frequency": 754000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C57", 
+            "frequency": 762000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C58", 
+            "frequency": 770000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C59", 
+            "frequency": 778000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C60", 
+            "frequency": 786000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C61", 
+            "frequency": 794000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C62", 
+            "frequency": 802000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C63", 
+            "frequency": 810000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C64", 
+            "frequency": 818000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C65", 
+            "frequency": 826000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C66", 
+            "frequency": 834000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C67", 
+            "frequency": 842000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C68", 
+            "frequency": 850000, 
+            "bandwidth": 8000
+        },
+        {
+            "band": "UHF",
+            "channel": "C69",
+            "frequency": 858000, 
+            "bandwidth": 8000
+        }
+    ],
+    "au": [
+        {
+            "band": "VHF",
+            "channel": "C1",
+            "frequency" : 59500,
+            "bandwidth": 7000
+        },                        
+        {
+            "band": "VHF",
+            "channel": "C2", 
+            "frequency" : 66500,
+            "bandwidth": 7000
+        },                        
+        {
+            "band": "VHF",
+            "channel": "C3", 
+            "frequency" : 88500,
+            "bandwidth": 7000
+        },
+        {
+            "band": "VHF",
+            "channel": "C4", 
+            "frequency" : 97500,
+            "bandwidth": 7000
+        },                        
+        {
+            "band": "VHF",
+            "channel": "C5",
+            "frequency" : 104500,
+            "bandwidth": 7000
+        },
+        {
+            "band": "VHF",
+            "channel": "C5A",
+            "frequency": 140500, 
+            "bandwidth": 7000
+        },                                
+        {
+            "band": "VHF",
+            "channel": "C6", 
+            "frequency" : 177500,
+            "bandwidth": 7000
+        },
+        {
+            "band": "VHF",
+            "channel": "C7", 
+           "frequency" : 184500,
+            "bandwidth": 7000
+        },
+        {
+            "band": "VHF",
+            "channel": "C8", 
+            "frequency" : 191500,
+            "bandwidth": 7000
+        },
+        {
+            "band": "VHF",
+            "channel": "C9", 
+            "frequency" : 198500,
+            "bandwidth": 7000
+        },
+        {
+            "band": "VHF",
+            "channel": "C9A",
+            "frequency": 205500, 
+            "bandwidth": 7000
+        },                                                    
+        {
+            "band": "VHF",
+            "channel": "C10",
+            "frequency": 212500, 
+            "bandwidth": 7000
+        },                                                        
+        {
+            "band": "VHF",
+            "channel": "C11",
+            "frequency": 219500, 
+            "bandwidth": 7000
+        },                                                            
+        {
+            "band": "VHF",
+            "channel": "C12",
+            "frequency": 226500, 
+            "bandwidth": 7000
+        },                                                                
+        {
+            "band": "UHF",
+            "channel": "C28",
+            "frequency": 529500, 
+            "bandwidth": 7000
+        },                                                                    
+        {
+            "band": "UHF",
+            "channel": "C29",
+            "frequency": 536600, 
+            "bandwidth": 7000
+        },                                                                        
+        {
+            "band": "UHF",
+            "channel": "C30",
+            "frequency": 543500, 
+            "bandwidth": 7000
+        },                                                                            
+        {
+            "band": "UHF",
+            "channel": "C31",
+            "frequency": 550500, 
+            "bandwidth": 7000
+        },                                                                                
+        {
+            "band": "UHF",
+            "channel": "C32",
+            "frequency": 557500, 
+            "bandwidth": 7000
+        },                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C33",
+            "frequency": 564500, 
+            "bandwidth": 7000
+        },                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C34",
+            "frequency": 571500, 
+            "bandwidth": 7000
+        },                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C35",
+            "frequency": 578500, 
+            "bandwidth": 7000
+        },                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C36",
+            "frequency": 585500, 
+            "bandwidth": 7000
+        },                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C37",
+            "frequency": 592500, 
+            "bandwidth": 7000
+        },                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C38",
+            "frequency": 599500, 
+            "bandwidth": 7000
+        },                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C39",
+            "frequency": 606500, 
+            "bandwidth": 7000
+        },                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C40",
+            "frequency": 613500, 
+            "bandwidth": 7000
+        },                                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C41",
+            "frequency": 620500, 
+            "bandwidth": 7000
+        },                                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C42",
+            "frequency": 627500, 
+            "bandwidth": 7000
+        },                                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C43",
+            "frequency": 634500, 
+            "bandwidth": 7000
+        },                                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C44",
+            "frequency": 641500, 
+            "bandwidth": 7000
+        },                                                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C45",
+            "frequency": 648500, 
+            "bandwidth": 7000
+        },                                                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C46",
+            "frequency": 655500, 
+            "bandwidth": 7000
+        },                                                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C47",
+            "frequency": 662500, 
+            "bandwidth": 7000
+        },                                                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C48",
+            "frequency": 669500, 
+            "bandwidth": 7000
+        },                                                                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C49",
+            "frequency": 676500, 
+            "bandwidth": 7000
+        },                                                                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C50",
+            "frequency": 683500, 
+            "bandwidth": 7000
+        },                                                                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C51",
+            "frequency": 690500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C52",
+            "frequency": 697500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C53",
+            "frequency": 704500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C54",
+            "frequency": 711500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C55",
+            "frequency": 718500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C56",
+            "frequency": 725500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C57",
+            "frequency": 732500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C58",
+            "frequency": 739500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C59",
+            "frequency": 746500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C60",
+            "frequency": 753500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C61",
+            "frequency": 760500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C62",
+            "frequency": 767500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C63",
+            "frequency": 774500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C64",
+            "frequency": 781500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                                    
+        {
+            "band": "UHF",
+            "channel": "C65",
+            "frequency": 788500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                                        
+        {
+            "band": "UHF",
+            "channel": "C66",
+            "frequency": 795500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                                            
+        {
+            "band": "UHF",
+            "channel": "C67",
+            "frequency": 802500, 
+            "bandwidth": 7000
+        },                                                                                                                                                                                                                                
+        {
+            "band": "UHF",
+            "channel": "C68",
+            "frequency": 809500, 
+            "bandwidth": 7000
+        },
+        {
+            "band": "UHF",
+            "channel": "C69",
+            "frequency": 816500, 
+            "bandwidth": 7000
+        }
+    ]
+}
