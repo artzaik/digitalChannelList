@@ -497,7 +497,7 @@
         {
             "band": "UHF",
             "channel": "C29",
-            "frequency": 536600, 
+            "frequency": 536500, 
             "bandwidth": 7000
         },                                                                        
         {
